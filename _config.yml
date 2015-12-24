@@ -1,0 +1,28 @@
+name: Alex Daish
+favicon: null
+layout_spectrum: 0.5999796940013766
+typography_spectrum: 0.4335216593462974
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8317701476626098
+  lightness: 0.8090715345460922
+  saturation: 0.30903751961886883
+  rhythmicContrast: 0.24507719511166215
+purpose: []
